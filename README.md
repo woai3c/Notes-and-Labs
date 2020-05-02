@@ -1,5 +1,4 @@
-# 计算机专业学习笔记及实验
-![img](https://github.com/woai3c/recommended-books/blob/master/Computer%20Science.png)
+# 计算机学习笔记及实验
 
 ### 计算机网络
 * [计算机网络--自顶向下（笔记与实验）](https://github.com/woai3c/Computer-Networking-Lab)
