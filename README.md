@@ -8,6 +8,7 @@
 
 ### 计算机组成原理
 * [计算机系统要素-从零开始构建现代计算机（1-5 章实践）](https://github.com/woai3c/nand2tetris)
+* [自己动手写 CPU（笔记）](https://github.com/woai3c/Notes-and-Labs/tree/master/notes/make-cpu)
 
 ### 操作系统
 * [计算机系统要素-从零开始构建现代计算机（第 12 章实践）](https://github.com/woai3c/nand2tetris)
