@@ -2,6 +2,8 @@
 
 ### 计算机网络
 * [计算机网络--自顶向下（笔记与实践）](https://github.com/woai3c/Computer-Networking-Lab)
+* [HTTP 权威指南（笔记）](https://github.com/woai3c/Computer-Networking-Lab/tree/master/docs/http)
+* [HTTP2基础教程（笔记）](https://github.com/woai3c/Computer-Networking-Lab/tree/master/docs/http)
 
 ### 编译原理
 * [计算机系统要素-从零开始构建现代计算机（6-11 章实践）](https://github.com/woai3c/nand2tetris)
