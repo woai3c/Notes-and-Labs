@@ -21,4 +21,4 @@
 * [leetcode（实践）](https://github.com/woai3c/leetcode)
 
 ### 软件工程
-* [重构——改善既有代码的设计（第2版）](https://github.com/woai3c/Notes-and-Labs/tree/master/notes/refactor2)
+* [重构2——改善既有代码的设计（笔记）](https://github.com/woai3c/Notes-and-Labs/tree/master/notes/refactor2)
