@@ -23,6 +23,7 @@
 ### 软件工程
 * [重构2——改善既有代码的设计（笔记）](https://github.com/woai3c/Notes-and-Labs/tree/master/notes/refactor2)
 * [软件工程：实践者的研究方法（笔记）](https://github.com/woai3c/Notes-and-Labs/tree/master/notes/software-engineering)
+* [设计模式的艺术-软件开发人员内功修炼之道](https://github.com/woai3c/Notes-and-Labs/tree/master/notes/design-pattern)
 
 ### nodejs
 * [深入浅出 Node.js（笔记）](https://github.com/woai3c/Notes-and-Labs/tree/master/notes/nodejs-srjc)
