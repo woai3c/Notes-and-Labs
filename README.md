@@ -31,3 +31,6 @@
 
 ### 数据库
 * [数据库系统实现（笔记）](https://github.com/woai3c/Notes-and-Labs/tree/master/notes/database-system-implementation)
+
+### 正则表达式
+* [精通正则表达式（笔记）](https://github.com/woai3c/Notes-and-Labs/tree/master/notes/regular-expression)
